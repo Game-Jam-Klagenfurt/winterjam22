@@ -278,11 +278,11 @@ th {
   .label {
     border: 1px solid #000;
   }
-  .table {
+  table {
     border-collapse: collapse !important;
   }
-  .table td,
-  .table th {
+  table td,
+  table th {
     background-color: #fff !important;
   }
   .table-bordered th,
@@ -1676,30 +1676,30 @@ pre code {
   }
 }
 
-.table {
+table {
   width: 100%;
   max-width: 100%;
   margin-bottom: 1rem;
 }
 
-.table th,
-.table td {
+table th,
+table td {
   padding: .75rem;
   line-height: 1.5;
   vertical-align: top;
   border-top: 1px solid #eceeef;
 }
 
-.table thead th {
+table thead th {
   vertical-align: bottom;
   border-bottom: 2px solid #eceeef;
 }
 
-.table tbody + tbody {
+table tbody + tbody {
   border-top: 2px solid #eceeef;
 }
 
-.table .table {
+table {
   background-color: #fff;
 }
 
