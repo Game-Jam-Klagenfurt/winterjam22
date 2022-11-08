@@ -627,7 +627,7 @@
                     <div class="row sponsors" style="margin-top:0;">
                         {% for sponsor in site.sponsors %}
                         <div class="col-md-12 col-lg-4 {% if sponsor.gold != undefined %} gold-sponsor {% endif %}">
-                            <a href="{{ sponsor.url }}" target="_blank">
+                            <a href="{{ sponsor.webpage }}" target="_blank">
                             <img src="images/sponsors/{{sponsor.logo}}" alt="{{ sponsor.name }} "
                                 class="img-fluid center-block media-middle">
                             </a>
@@ -637,7 +637,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <h2 class="row-heading">Organization Team </h2>
+                <h2 class="row-heading">Organization Team</h2>
                 (in alphabetical order)
 
                 {{ page.organizers | markdownify }}

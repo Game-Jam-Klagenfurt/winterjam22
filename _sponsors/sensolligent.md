@@ -1,5 +1,5 @@
 ---
 name: Sensolligent
-url: https://sensolligent.com
+webpage: https://sensolligent.com
 logo: Logo-sensolligent.png
 ---

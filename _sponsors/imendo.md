@@ -1,5 +1,5 @@
 ---
 name: IMENDO
-url: http://imendo.at
+webpage: http://imendo.at
 logo: Logo-imendo.jpg
 ---

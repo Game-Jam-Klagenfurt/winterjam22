@@ -1,6 +1,6 @@
 ---
 name: Dynatrace
-url: http://dynatrace.com
+webpage: http://www.dynatrace.com
 logo: Logo-dynatrace.jpg
 gold: 1
 ---

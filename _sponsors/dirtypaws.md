@@ -1,5 +1,5 @@
 ---
 name: Dirty Paws
-url: https://dirtypaws.studio/
+webpage: https://dirtypaws.studio/
 logo: Logo-dirypaws.jpg
 ---

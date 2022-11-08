@@ -1,5 +1,5 @@
 ---
 name: Datasix
-url: http://datasix.at
+webpage: http://datasix.at
 logo: Logo-datasix.jpg
 ---
