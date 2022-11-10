@@ -1,6 +1,6 @@
-# 9th Klagenfurt Game Jam
-Home page of the 9th Klagenfurt Game Jam, from April 22 - 24, 2022.
+# 6th Winter Game Jam
+Home page of the 6th Winter Game Jam, from December 9 to December 11, 2022.
 
 Access the web page on https://klujam.at
 
-Itch.io page is https://itch.io/jam/9th-klujam
+Itch.io page is https://itch.io/jam/6th-winter-game-jam
